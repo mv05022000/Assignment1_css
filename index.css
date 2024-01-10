@@ -1,0 +1,52 @@
+.header{
+    border: 1px solid black;
+    height: 100px;
+    text-align: center;
+    background-color: lightgreen;
+    
+}
+#nav{
+    border: 1px solid black;
+    background-color: pink;
+}
+#n1{
+background-color: aliceblue;
+align-items: center;
+}
+.div1{text-align: left;
+    height: 150px;
+    width: 80%;
+    border: 1px solid black;
+    background-color: blue;
+}
+#d1{
+
+
+   text-align: center;
+    width: 30%;
+    height: 30px;
+background-color: lightblue;
+
+}
+.div2{
+    text-align: center;
+    float: right;
+    background-color: plum;
+    width: 20%;
+    position: absolute;
+    left :80%;
+    height: 150px;
+    top: 167px; 
+}
+#d2{
+   background-color: antiquewhite; 
+   width: 100px;
+   height: 50px;
+}
+.footer{
+    height: 30px;
+    background-color: pink;
+    text-align: center;
+    
+
+}
